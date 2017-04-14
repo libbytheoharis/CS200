@@ -1,0 +1,8 @@
+QUESTION
+What is the best food?
+
+RESULTS
+Pizza	 	3votes
+Veggie Taco	 	2votes
+Samosas	 	5votes
+Sushi	 	4votes
