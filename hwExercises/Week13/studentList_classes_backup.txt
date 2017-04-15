@@ -1,0 +1,23 @@
+22
+             Mercert          Plato      CSIS       3.5 CS200 CS210 ENGL102 MATH172
+               Baird           Paul      CSIS         4 CS201 CS211 ENGL103 MATH254
+               Hurst       Griffith      CSIS         4 CS205 CS210 ENGL108 MATH243
+            Humphrey          Adele      CSIS       2.5 CS201 CS211 ENGL109 MATH242
+               Sharp        Sharpie      CSIS         4 CS205 CS210 ENGL110 MATH241
+              Potter           Kirk      CSIS         3 CS201 CS211 ENGL121 MATH243
+             Compton         Nathan      CSIS         2 CS205 CS210 ENGL122 MATH254
+              Oliver      Priscilla      ARCH         4 CS201 CS211 ENGL101 MATH254
+           Mcpherson        Katelyn      ARCH         3 CS205 CS210 ENGL101 MATH241
+             Stanley         Teagan      ARCH         2 CS201 CS211 ENGL109 MATH241
+               Walls            Yen      ARCH         3 CS205 CS210 ENGL122 MATH243
+           Singleton          Karyn      ARCH         3 CS200 CS211 ENGL110 MATH172
+             Shelton         Lester      ARCH         4 CS200 CS211 ENGL109 MATH254
+            Martinez        Dominic      ARCH         4 CS201 CS211 ENGL101 MATH172
+              Sawyer         Galvin      ARCH         3 CS205 CS210 ENGL101 MATH243
+                Mayo         Hashim      ARCH         3 CS201 CS210 ENGL122 MATH241
+              Melton          Abdul      CHEM         3 CS205 CS211 ENGL110 MATH254
+               Perry         Ayanna      CHEM         2 CS200 CS211 ENGL122 MATH241
+            Woodward        Vaughan      CHEM         3 CS200 CS211 ENGL101 MATH241
+               Ayala        Quinlan      CHEM         4 CS201 CS210 ENGL122 MATH241
+               Pratt         Aneeka      CHEM         2 CS200 CS210 ENGL101 MATH172
+                Gill         Kaseem      CHEM         2 CS200 CS210 ENGL101 MATH241

@@ -1,0 +1,23 @@
+22
+             Mercert          Plato      CSIS       3.5
+               Baird           Paul      CSIS         4
+               Hurst       Griffith      CSIS         4
+            Humphrey          Adele      CSIS       2.5
+               Sharp        Sharpie      CSIS         4
+              Potter           Kirk      CSIS         3
+             Compton         Nathan      CSIS         2
+              Oliver      Priscilla      ARCH         4
+           Mcpherson        Katelyn      ARCH         3
+             Stanley         Teagan      ARCH         2
+               Walls            Yen      ARCH         3
+           Singleton          Karyn      ARCH         3
+             Shelton         Lester      ARCH         4
+            Martinez        Dominic      ARCH         4
+              Sawyer         Galvin      ARCH         3
+                Mayo         Hashim      ARCH         3
+              Melton          Abdul      CHEM         3
+               Perry         Ayanna      CHEM         2
+            Woodward        Vaughan      CHEM         3
+               Ayala        Quinlan      CHEM         4
+               Pratt         Aneeka      CHEM         2
+                Gill         Kaseem      CHEM         2
