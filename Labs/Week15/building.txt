@@ -1,0 +1,22 @@
+BUILDING Dimensions: 250 sqft
+
+
+ROOM 1 (Entryway):
+	 * Dimensions: 5 x 10
+	 * Area:       50 sqft
+
+ROOM 2 (Living Room):
+	 * Dimensions: 5 x 10
+	 * Area:       50 sqft
+
+ROOM 3 (Kitchen):
+	 * Dimensions: 5 x 10
+	 * Area:       50 sqft
+
+ROOM 4 (Bedroom):
+	 * Dimensions: 5 x 10
+	 * Area:       50 sqft
+
+ROOM 5 (Bathroom):
+	 * Dimensions: 5 x 10
+	 * Area:       50 sqft
